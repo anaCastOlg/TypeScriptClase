@@ -1,3 +1,4 @@
 {
-    "userV1": "/v1/user"
+    "users": "/v1/user"
+
 }
